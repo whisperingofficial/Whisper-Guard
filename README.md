@@ -1,0 +1,2 @@
+# Whisper-Guard
+sunucunuzu guardlar
